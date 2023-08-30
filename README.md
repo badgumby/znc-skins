@@ -10,4 +10,4 @@ Note: Your install may be in a different location, so be sure to place the skin 
 
 ### Nautical Mint
 
-
+![alt text](screenshots/Nautical_Mint.png "Nautical Mint")
